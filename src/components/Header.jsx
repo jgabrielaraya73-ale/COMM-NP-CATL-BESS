@@ -28,7 +28,7 @@ const CONFIG = {
   tituloColor: '#ffffff',
 
   // --- Subtítulo ---
-  subtituloTexto: 'Seguimiento INTERNO de avances de tareas de comisonamiento en campo',
+  subtituloTexto: 'Seguimiento INTERNO de avances de tareas de comisionamiento en campo',
   subtituloTamaño: 16,
   subtituloColor: '#f1f5f9',
 
