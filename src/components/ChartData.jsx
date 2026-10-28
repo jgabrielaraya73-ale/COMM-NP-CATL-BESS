@@ -76,7 +76,7 @@ export default function ChartData({ sheetsSummary = [], sheetsDetail = {} }) {
         
         <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-3 mb-3">
           <h2 className="text-[11px] font-bold tracking-widest text-slate-300 uppercase">
-            PLANES DE COMISIONAMIENTO Y ENSAYOS (POR HOJA)
+            PLANES DE COLD COMMISSIONING
           </h2>
           
           <div className="flex flex-wrap items-center gap-2 no-print w-full lg:w-auto justify-end">

@@ -23,12 +23,12 @@ const CONFIG = {
   logoBordeRedondeado: 8,
 
   // --- Título ---
-  tituloTexto: 'Proyecto BESS - NUEVO PUERTO - COMISIONAMIENTO',
+  tituloTexto: 'Proyecto BESS - NUEVO PUERTO - COLD COMMISSIONING',
   tituloTamaño: 24,
   tituloColor: '#ffffff',
 
   // --- Subtítulo ---
-  subtituloTexto: 'Seguimiento INTERNO de avances de tareas de comisionamiento en campo',
+  subtituloTexto: 'Seguimiento INTERNO de avances en campo',
   subtituloTamaño: 16,
   subtituloColor: '#f1f5f9',
 
